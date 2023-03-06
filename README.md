@@ -1,6 +1,6 @@
 # devOps_ZHAW
 
 DevOps Prototyping 
-*Understand DevOps by doing it
+*htt DevOps by doing it
 
 hi im linda
